@@ -1,0 +1,9 @@
+set incsearch
+set hlsearch
+set autoindent
+set smartindent
+set number
+set foldenable
+set fdm=indent
+syntax on
+colorscheme elflord
