@@ -1,7 +1,7 @@
 set encoding=utf-8
 
 set incsearch
-set hlsearch
+set nohlsearch
 set ignorecase
 set smartcase
 
