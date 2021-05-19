@@ -1,0 +1,21 @@
+[submodule "pack/Airline/start/Airline"]
+	path = pack/Airline/start/Airline
+	url = https://github.com/vim-airline/vim-airline
+[submodule "pack/ALE/start/ALE"]
+	path = pack/ALE/start/ALE
+	url = https://github.com/dense-analysis/ale
+[submodule "pack/NERDTree/start/NERDTree"]
+	path = pack/NERDTree/start/NERDTree
+	url = https://github.com/preservim/nerdtree
+[submodule "pack/fugitive/start/fugitive"]
+	path = pack/fugitive/start/fugitive
+	url = https://github.com/tpope/vim-fugitive
+[submodule "pack/fzf.vim/start/fzf.vim"]
+	path = pack/fzf.vim/start/fzf.vim
+	url = https://github.com/junegunn/fzf.vim
+[submodule "pack/gruvbox/start/gruvbox"]
+	path = pack/gruvbox/start/gruvbox
+	url = https://github.com/morhetz/gruvbox
+[submodule "pack/polyglot/start/polyglot"]
+	path = pack/polyglot/start/polyglot
+	url = https://github.com/sheerun/vim-polyglot
